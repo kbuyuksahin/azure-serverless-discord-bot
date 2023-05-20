@@ -1,6 +1,6 @@
 # Discord Serverless bot template
 
-[![Deploy to Azure](https://img.shields.io/badge/Deploy%20To-Azure-blue?logo=microsoft-azure)](https://portal.azure.com/?WT.mc_id=dotnet-0000-frbouche#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSoTrx%2Fazure-serverless-discord-bot%2Fmaster%2Fdeploy.json)
+[![Deploy to Azure](https://img.shields.io/badge/Deploy%20To-Azure-blue?logo=microsoft-azure)](https://portal.azure.com/?WT.mc_id=dotnet-0000-frbouche#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fkbuyuksahin%2Fazure-serverless-discord-bot%2Fmaster%2Fdeploy.json)
 
 This project is a tutorial about about to build a serverless discord bot on Azure. Although Azure Functions will be used in this example, the concepts should apply to any Cloud provider having a FaaS offer (AWS Lambdas, GCP Cloud Functions...)
 
