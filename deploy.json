@@ -100,7 +100,7 @@
             },
             {
               "name": "WEBSITE_RUN_FROM_ZIP",
-              "value": "https://github.com/kbuyuksahin/azure-serverless-discord-bot/releases/latest/download/default.azure-serverless-discord-bot.zip"
+              "value": "https://github.com/kbuyuksahin/azure-serverless-discord-bot/archive/refs/tags/default.zip"
             }
           ],
           "use32BitWorkerProcess": false,
